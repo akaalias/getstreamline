@@ -4,26 +4,27 @@ Hello and welcome!
 
 Alexis here. Great to have you. 
 
-If you’re an journaling/Obsidian fan, maybe this sounds familiar :)
+If you journal daily *and* take copious notes with Obsidian, maybe the following sounds familiar :)
 
 ## What I love
 
-I LOVE journaling with pen and paper in the morning. 
+I LOVE journaling with pen and paper in the morning.
 
-I gives me a safe space where I can *let* my heart speak. 
+Journaling gives me a safe space where I let my heart speak. 
 
 This makes me feel safe.
 
-I *also* LOVE note-taking with Obsidian. 
+I also LOVE note-taking with Obsidian. 
 
-It gives me an exciting space where I can *let* my mind wander.
+It gives me an exciting space where let my mind wander.
 
 That makes me feel like a million bucks.
 
 ## A FUCKING CONUNDRUM
 
-But… Here’s the CONUNDRUM I’ve struggled with. 
+But… 
 
+Here’s the RUB.
 
 ### Problem #1: Peace without future
 
@@ -31,7 +32,7 @@ When I journal with pen and paper, I often want to reference something I had wri
 
 But there is NO EASY WAY to link to a note in Obsidian without losing the peace and quiet that I cherish. 
 
-So, none of my heart-felt writings will be part of Obsidian because they’re stuck on paper???
+So, none of my heart-felt writings will be ever part of Obsidian because they’re stuck on paper???
 
 Fuck.
 
@@ -53,7 +54,7 @@ FUCK!
 
 So I built Streamline.
 
-It simply helps me:
+It’s a *writer* that helps me:
 
 - **Enter** that quiet journaling space 
 - AND **Link** to my notes easily without getting pulled away
@@ -65,16 +66,16 @@ Streamline is free, so give it a spin!
 
 [🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
 
-## PS: What you’ll get
+## What you’ll get
 
-### 1. Learn to listen to your heart
+### Learn to listen to your heart
 If you’ve never done stream-of-consciousness writing before, it can seem daunting and confusing. 
 
 All you need to do is write one word that’s on your mind right now. 
 
 There is no hurry. You can type as slow or fast as you like. 
 
-### 2. Learn to love your mistakes
+### Learn to love your mistakes
 Streamline is a writer. It only moves *forward*. 
 
 That means: When you make a mistake (like a typO), there is no DELETE key. You can’t change the typo in that moment. 
@@ -84,6 +85,19 @@ That’s intentional as it teaches you to continue moving forward regardless.
 No worries, you can save your writing to markdown and give it the old editor treatment later. 
 
 Just learn to accept mistakes as you make them. 
+
+## What you’ll miss
+
+Again, Streamline is a writer, not an editor. 
+
+It only *moves forward*. 
+
+- There is **no backspace** to delete
+- There are **no paragraphs** to navigate
+- There is **no markdown** syntax highlighting
+- There is **no copy-and-paste**
+
+
 
 ### How to link to your Obsidian vault
 - For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Obsidian Linking`
