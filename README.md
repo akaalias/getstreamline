@@ -98,7 +98,7 @@ With a bit of practice, you’ll be able to hear that quiet inner voice.
 
 You’ll see.
 
-It’s really important stuff it has to say.
+Your heart has some really important things to say.
 
 ### Learn to love your mistakes
 Streamline is a writer, not an editor. 
@@ -136,7 +136,5 @@ It intentionally only *moves forward*.
 - There are **no paragraphs** to get off-track
 - There is **no markdown syntax highlighting** to distract 
 - There is **no copy-and-paste** or any other shortcuts
-
-—
 
 Streamline is free. [🎁 Download for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
