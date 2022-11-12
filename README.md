@@ -117,24 +117,26 @@ You’ll start focusing on your flow instead.
 
 (No worries, you can save your writing to markdown and give it the old editor treatment later.)
 
-## What you’ll miss
+### Learn to link a lot
 
-Again, Streamline is a writer, not an editor. 
+As you’re writing you can link to a note in Obsidian easily:
 
-It only *moves forward*. 
-
-- There is **no backspace** to delete
-- There are **no paragraphs** to navigate
-- There is **no markdown syntax** or highlighting
-- There is **no copy-and-paste** or any other shortcuts
-
-### How to link to your Obsidian vault
-- For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Obsidian Linking`
-
-### How to find and link your notes
 - **Enter** linking mode by typing `[[`
 - **Exit** the linking mode with ESC
 - **Choose** a link with your UP and DOWN arrow keys
 - **Insert** the link into your stream with RETURN
+
+## What you’ll miss
+
+Again, Streamline is a writer, not an editor. 
+
+It intentionally only *moves forward*. 
+
+- There is **no backspace** to delete a mistake
+- There are **no paragraphs** to get off-track
+- There is **no markdown syntax highlighting** to distract 
+- There is **no copy-and-paste** or any other shortcuts
+
+—
 
 Streamline is free. [🎁 Download for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
