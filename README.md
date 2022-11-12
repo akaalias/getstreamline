@@ -24,19 +24,26 @@ That makes me feel like a million bucks.
 
 But… Here’s the CONUNDRUM I’ve struggled with. 
 
+
+### Problem #1: Peace without future
+
 When I journal with pen and paper, I often want to reference something I had written down. 
 
-But there is no good way to link to a note in Obsidian without losing the peace and quiet that I cherish. 
+But there is NO EASY WAY to link to a note in Obsidian without losing the peace and quiet that I cherish. 
 
-So, NONE of my heart-felt writing will ever be part of my Obsidian because it’s stuck on paper???
+So, none of my heart-felt writings will be part of Obsidian because they’re stuck on paper???
 
 Fuck.
 
+### Problem #2: As exciting as flat soda pop
+
 And when I write in Obsidian, it’s hard to focus. 
 
-Either my mind wanders off by following a link to a note I just created. 
+Either…
 
-OR my *inner editor* starts criticising my spelling as I type.
+My mind wanders off to far by following one of the 6,018 rabbit-holes I’ve stored in my vault.
+
+OR **my inner editor criticises my spelling** as I type, ensuring no creativity is left.
 
 So, my notes in Obsidian will perpetually lack real depth and spontaneity that makes them sparkle???
 
