@@ -1,18 +1,20 @@
 ![Streamline Demo](https://github.com/akaalias/getstreamline/raw/main/demo.png)
 
-The key reason why I built Streamline was that **I get distracted**
+Here’s my problem: 
 
-- When I try to write stream-of-consciousness with pen and paper I, because **I can’t link to a single one of my 6018 Obsidian notes**
-- When I try to write stream-of-consciousness with Obsidian, because **there are too many notes that pull me away**
+When I want to write from my heart, I get distracted:
+
+- With pen and paper, because I can’t link to a single one of my 6018 Obsidian notes
+- With Obsidian, because there are too many rabbit-holes (notes, features, buttons, plugins) that pull me away into a thousand directions
 
 ## For Obsidian and Notion Writers:
 
-Streamline helps you:
+Streamline helps me:
 
 - **Enter** into a quiet and relaxed writing flow quicker.
 - **Stay** in a quiet and relaxed writing flow longer.
-- **Link** to more of your existing notes easily without getting pulled away.
-- **Let go** of your inner critic by removing the option to correct in the first place
+- **Link** to more of my existing notes easily without getting pulled away.
+- **Let go** of my inner critic by removing the option to correct in the first place
 
 ## What you get
 
