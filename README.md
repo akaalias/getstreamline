@@ -36,7 +36,7 @@ So, none of my heart-felt writings will be ever part of Obsidian because they’
 
 Fuck.
 
-### Problem #2: As exciting as flat soda pop
+### Problem #2: As exciting as pink noise
 
 And when I write in Obsidian, it’s hard to focus. 
 
