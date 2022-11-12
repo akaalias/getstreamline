@@ -1,4 +1,5 @@
-## Streamline
+
+![Streamline Demo](/demo.png)
 
 Stream-of-consciousness, one-line writing will teach you:
 
