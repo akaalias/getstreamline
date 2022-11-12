@@ -1,24 +1,42 @@
 ![Streamline Demo](https://github.com/akaalias/getstreamline/raw/main/demo.png)
 
-Hi there, Alexis here. 
+Hello and welcome! 
 
-Great to have you. 
+Alexis here. Great to have you. 
 
-Here’s the conundrum I’ve struggled with. 
+If you’re an journaling/Obsidian fan, maybe this sounds familiar :)
 
-I love journaling in the morning with pen and paper because it’s a safe space where I can let my heart speak.
+I LOVE journaling with pen and paper in the morning. 
 
-I also love digital note-taking with Obsidian because it’s an exciting space where I can let my mind wander.
+I gives me a safe space where I can *let* my heart speak.
 
-But: 
+I *also* LOVE note-taking with Obsidian. 
+
+It gives me an exciting space where I can *let* my mind wander.
+
+But… Here’s the CONUNDRUM I’ve struggled with. 
 
 When I journal with pen and paper, I often want to reference something I had written down. 
 
 There is no good way to link to a note in Obsidian without losing the peace and quiet that I cherish. 
 
-And when I write in Obsidian, either my mind wanders off too far or my inner editor starts criticizing my spelling as I type.
+So, NONE of my heart-felt and honest hand-written journaling notes will ever be part of my Obsidian ecosystem. 
 
-So I built Streamline to solve this conundrum.
+Fuck.
+
+And when I write in Obsidian, it’s hard to focus. 
+
+Either my mind wanders off by following a link to a note I just created. 
+
+OR my *inner editor* starts criticising my spelling as I type.
+
+So, my notes in Obsidian will perpetually lack a real depth and the creative roughness that would make them mine.
+
+FUCK!
+
+—
+
+So I built Streamline.
 
 It simply helps me:
 
