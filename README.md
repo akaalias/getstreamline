@@ -1,33 +1,43 @@
 ![Streamline Demo](https://github.com/akaalias/getstreamline/raw/main/demo.png)
 
-Here’s my problem: 
+Hi there, Alexis here. 
 
-When I want to write from my heart, I get distracted:
+Great to have you. 
 
-- With pen and paper, because I can’t link to a single one of my 6018 Obsidian notes
-- With Obsidian, because there are too many rabbit-holes (notes, features, buttons, plugins) that pull me away into a thousand directions
+Here’s the conundrum I’ve struggled with. 
 
-## For Obsidian and Notion Writers:
+I love journaling in the morning with pen and paper because it’s a safe space where I can let my heart speak.
 
-Streamline helps me:
+I also love digital note-taking with Obsidian because it’s an exciting space where I can let my mind wander.
 
-- **Enter** into a quiet and relaxed writing flow quicker.
-- **Stay** in a quiet and relaxed writing flow longer.
-- **Link** to more of my existing notes easily without getting pulled away.
-- **Let go** of my inner critic by removing the option to correct in the first place
+But: 
 
-## What you get
+When I journal with pen and paper, I often want to reference something I had written down. 
+
+There is no good way to link to a note in Obsidian without losing the peace and quiet that I cherish. 
+
+And when I write in Obsidian, either my mind wanders off too far or my inner editor starts criticizing my spelling as I type.
+
+So I built Streamline to solve this conundrum.
+
+It simply helps me:
+
+- **Enter** that quiet journaling space 
+- AND **Link** to my notes easily without getting pulled away
+- AND **Let go** of my inner editor by removing most normal editor features
+
+If *you* struggle with what I’m talking about, you’re not alone.
+
+Streamline is free, so give it a spin! 
+
+[🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
+
+## PS: What you’ll get
 
 ### 1. Learn to listen to your heart
 If you’ve never done stream-of-consciousness writing before, it can seem daunting and confusing. 
 
 All you need to do is write one word that’s on your mind right now. 
-
-Then another. 
-
-And one more. 
-
-The whole time, all you need to focus on is a single word! 
 
 There is no hurry. You can type as slow or fast as you like. 
 
@@ -42,23 +52,13 @@ No worries, you can save your writing to markdown and give it the old editor tre
 
 Just learn to accept mistakes as you make them. 
 
-### 3. Learn to link a lot
-
-### **Link to your Obsidian notes**
+### How to link to your Obsidian vault
 - For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Obsidian Linking`
 
-### **Link to your Notion pages**
-- For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Notion Linking`
-- Please note that Notion 
-
-### **Find and link your notes** 
+### How to find and link your notes
 - **Enter** linking mode by typing `[[`
 - **Exit** the linking mode with ESC
 - **Choose** a link with your UP and DOWN arrow keys
 - **Insert** the link into your stream with RETURN
 
-## Download
-[🎁 (Free) Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
-
-### Tutorial
-PS: Full tutorial coming soon. [Please let me know](mailto:alexis.rondeau@gmail.com) what you struggle most with!
+Streamline is free. [🎁 Download for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
