@@ -46,7 +46,7 @@ My **mind wanders off to far** by following one of the 6,018 rabbit-holes I’ve
 
 OR **my inner editor criticises my spelling** as I type, ensuring no creativity is left.
 
-So, my notes in Obsidian will perpetually lack real depth and spontaneity that makes them sparkle???
+So, my notes in Obsidian will perpetually lack real depth and a heart-felt spontaneity that makes them sparkle???
 
 FUCK!
 
