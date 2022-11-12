@@ -1,15 +1,21 @@
 ![Streamline Demo](https://github.com/akaalias/getstreamline/raw/main/demo.png)
 
+The key reason why I built Streamline was that **I get distracted**
+
+- When I try to write stream-of-consciousness with pen and paper I, because **I can’t link to a single one of my 6018 Obsidian notes**
+- When I try to write stream-of-consciousness with Obsidian, because **there are too many notes that pull me away**
+
 ## For Obsidian and Notion Writers:
 
 Streamline helps you:
 
-- Enter into your writing flow quicker.
-- Stay in your writing flow longer.
-- Connect more of your existing notes.
-- Let go of your inner editor.
+- **Enter** into a quiet and relaxed writing flow quicker.
+- **Stay** in a quiet and relaxed writing flow longer.
+- **Link** to more of your existing notes easily without getting pulled away.
+- **Let go** of your inner critic by removing the option to correct in the first place
 
-## What you get:
+## What you get
+
 ### 1. Learn to listen to your heart
 If you’ve never done stream-of-consciousness writing before, it can seem daunting and confusing. 
 
@@ -36,34 +42,21 @@ Just learn to accept mistakes as you make them.
 
 ### 3. Learn to link a lot
 
-The key reason why I built Streamline was that…
-
-- It distracts me that when I try to write stream-of-consciousness with pen and paper I can’t link to a single note in my Obsidian vault
-- It distracts me that when I try to write stream-of-consciousness with Obsidian, there are too many of my notes that pull me away.
-
-So, Streamline gives me both: Easy access to my notes without the rabbit-holes.
-
-## Download
-[🎁 (Free) Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
-
-## Tips and Tricks
-
-### Link to your Obsidian notes
+### **Link to your Obsidian notes**
 - For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Obsidian Linking`
 
-### Link to your Notion pages
+### **Link to your Notion pages**
 - For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Notion Linking`
 - Please note that Notion 
 
-### Find and link your notes 
+### **Find and link your notes** 
 - **Enter** linking mode by typing `[[`
 - **Exit** the linking mode with ESC
 - **Choose** a link with your UP and DOWN arrow keys
 - **Insert** the link into your stream with RETURN
 
-### Tutorial
-PS: Full tutorial coming soon. [Please let me know](mailto:alexis.rondeau@gmail.com) what you struggle most with!
-
 ## Download
 [🎁 (Free) Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
 
+### Tutorial
+PS: Full tutorial coming soon. [Please let me know](mailto:alexis.rondeau@gmail.com) what you struggle most with!
