@@ -105,15 +105,13 @@ Streamline is a writer, not an editor.
 
 It only moves *forward*. 
 
-So, when you make a tYpO, there is no DELETE key. 
+When you make a tYpO, there is no DELETE key. 
 
-You can’t change the typo in that moment. 
+You can’t change the mistake. 
 
-That’s intentional as it teaches you to continue moving forward regardless. 
+What you can do is continue moving forward regardless. 
 
-With a little practice, you start to learn to accept those mistakes. 
-
-You’ll start focusing on your flow instead.
+With a little practice, you’ll start focusing on your flow.
 
 (No worries, you can save your writing to markdown and give it the old editor treatment later.)
 
@@ -125,6 +123,12 @@ As you’re writing you can link to a note in Obsidian easily:
 - **Exit** the linking mode with ESC
 - **Choose** a link with your UP and DOWN arrow keys
 - **Insert** the link into your stream with RETURN
+
+It takes less than a minute to learn 
+
+Once you use it the results are remarkable:
+
+I pepper more links into my journal notes than I do with Obsidian proper.
 
 ## What you’ll miss
 
