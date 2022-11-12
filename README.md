@@ -26,6 +26,12 @@ If you’ve never done stream-of-consciousness writing before, it can seem daunt
 
 All you need to do is write one word that’s on your mind right now. 
 
+Then another. 
+
+And one more. 
+
+The whole time, all you need to focus on is a single word! 
+
 There is no hurry. You can type as slow or fast as you like. 
 
 ### 2. Make mistakes
