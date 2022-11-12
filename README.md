@@ -56,13 +56,13 @@ So I built Streamline.
 
 It’s a *writer* that helps me:
 
-**Enter** that quiet journaling space 
+**Enter** that quiet journaling space.
 
-AND **Link** to my notes easily without getting pulled away
+AND **Link** to my notes easily without getting pulled away.
 
-AND **Let go** of my inner editor by removing most normal editor features
+AND **Let go** of my inner editor by removing most normal editor features.
 
-
+### A new work-flow
 Instead of journaling by hand, I now do a quick, relaxed Streamline session right after I log in to my laptop. 
 
 The built-in search lets me insert links to Obsidian quickly. 
@@ -70,6 +70,12 @@ The built-in search lets me insert links to Obsidian quickly.
 The save it as a markdown note to my vault.
 
 It’s really simple.
+
+It works. 
+
+And it feels right.
+
+—
 
 So… If *you* struggle with what I’m talking about. 
 
