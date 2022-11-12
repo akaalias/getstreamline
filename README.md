@@ -2,6 +2,8 @@
 
 ## For Obsidian and Notion Writers:
 
+Streamline helps you:
+
 - Enter into your writing flow quicker.
 - Stay in your writing flow longer.
 - Connect more of your existing notes.
