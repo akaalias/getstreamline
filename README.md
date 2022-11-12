@@ -28,17 +28,17 @@ Here’s the RUB.
 
 ### Problem #1: Peace without a future
 
-When I journal with pen and paper, I often want to reference something I had written down. 
+When I journal with pen and paper, I can’t link to Obsidian.
 
-But there is **no easy way to link to a note** in Obsidian without losing the peace and quiet that I cherish. 
+There is **no easy way to link to a note** in Obsidian without losing the peace and quiet that I cherish. 
 
-So, none of my heart-felt writings will be ever part of Obsidian because they’re stuck on paper???
+So, none of my heart-felt writings will be ever leverage the 6,018 notes in Obsidian because they’re stuck on paper???
 
 Fuck.
 
 ### Problem #2: As exciting as pink noise
 
-And when I write in Obsidian, it’s hard to focus. 
+And when I write in Obsidian, it’s extremely hard to focus.
 
 Either…
 
