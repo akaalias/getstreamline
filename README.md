@@ -6,7 +6,7 @@
 - Link a lot
 - Love your mistakes
 
-[🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/download/latest/Streamline.zip)
+[🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
 
 ### A few tips on linking
 
