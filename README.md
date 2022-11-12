@@ -6,11 +6,9 @@
 - Link a lot
 - Love your mistakes
 
-[Download Streamline for macOS 12+]()
+[🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/download/latest/Streamline.zip)
 
-PS: 
-
-**A few tips on linking:**
+### A few tips on linking
 
 - **Enter** linking mode by typing `[[`
 - **Exit** the linking mode with ESC
