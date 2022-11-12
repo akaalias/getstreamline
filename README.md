@@ -90,6 +90,10 @@ There is no hurry. You can type as slow or fast as you like.
 
 With a bit of practice, you’ll be able to hear that quiet inner voice. 
 
+You’ll see.
+
+It’s really important stuff it has to say.
+
 ### Learn to love your mistakes
 Streamline is a writer, not an editor. 
 
