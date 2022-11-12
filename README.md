@@ -9,19 +9,8 @@ Streamline helps you:
 - Connect more of your existing notes.
 - Let go of your inner editor.
 
-With a little bit of practice, distraction-free stream-of-consciousnesse writing will teach you how to:
-
-- Listen to your heart 
-- Love your mistakes
-- Link a lot
-
-And best of all: Streamline is free! 
-
-[🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
-
-### Tips and Tricks
-
-### 1. Relax
+## What you get:
+### 1. Learn to listen to your heart
 If you’ve never done stream-of-consciousness writing before, it can seem daunting and confusing. 
 
 All you need to do is write one word that’s on your mind right now. 
@@ -34,7 +23,7 @@ The whole time, all you need to focus on is a single word!
 
 There is no hurry. You can type as slow or fast as you like. 
 
-### 2. Make mistakes
+### 2. Learn to love your mistakes
 Streamline is a writer. It only moves *forward*. 
 
 That means: When you make a mistake (like a typO), there is no DELETE key. You can’t change the typo in that moment. 
@@ -45,7 +34,7 @@ No worries, you can save your writing to markdown and give it the old editor tre
 
 Just learn to accept mistakes as you make them. 
 
-### 3. Link profusely
+### 3. Learn to link a lot
 
 The key reason why I built Streamline was that…
 
@@ -54,19 +43,27 @@ The key reason why I built Streamline was that…
 
 So, Streamline gives me both: Easy access to my notes without the rabbit-holes.
 
-#### Link to your Obsidian notes
+## Download
+[🎁 (Free) Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
+
+## Tips and Tricks
+
+### Link to your Obsidian notes
 - For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Obsidian Linking`
 
-#### Link to your Notion pages
+### Link to your Notion pages
 - For quickly linking to your existing notes, select your Obsidian Vault via `Streamline -> Settings -> Notion Linking`
 - Please note that Notion 
 
-#### Find and link your notes 
+### Find and link your notes 
 - **Enter** linking mode by typing `[[`
 - **Exit** the linking mode with ESC
 - **Choose** a link with your UP and DOWN arrow keys
 - **Insert** the link into your stream with RETURN
 
-#### Tutorial
+### Tutorial
 PS: Full tutorial coming soon. [Please let me know](mailto:alexis.rondeau@gmail.com) what you struggle most with!
+
+## Download
+[🎁 (Free) Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
 
