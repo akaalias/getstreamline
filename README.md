@@ -20,14 +20,15 @@ It gives me an exciting space where I can *let* my mind wander.
 
 That makes me feel like a million bucks.
 
-## A fucking CONUNDRUM
+## A FUCKING CONUNDRUM
+
 But… Here’s the CONUNDRUM I’ve struggled with. 
 
 When I journal with pen and paper, I often want to reference something I had written down. 
 
-There is no good way to link to a note in Obsidian without losing the peace and quiet that I cherish. 
+But there is no good way to link to a note in Obsidian without losing the peace and quiet that I cherish. 
 
-So, NONE of my heart-felt and honest hand-written journaling notes will ever be part of my Obsidian ecosystem. 
+So, NONE of my heart-felt writing will ever be part of my Obsidian because it’s stuck on paper???
 
 Fuck.
 
@@ -37,7 +38,7 @@ Either my mind wanders off by following a link to a note I just created.
 
 OR my *inner editor* starts criticising my spelling as I type.
 
-So, my notes in Obsidian will perpetually lack a real depth and the creative roughness that would make them mine.
+So, my notes in Obsidian will perpetually lack real depth and spontaneity that makes them sparkle???
 
 FUCK!
 
