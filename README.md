@@ -6,14 +6,21 @@ Alexis here. Great to have you.
 
 If you’re an journaling/Obsidian fan, maybe this sounds familiar :)
 
+## What I love
+
 I LOVE journaling with pen and paper in the morning. 
 
-I gives me a safe space where I can *let* my heart speak.
+I gives me a safe space where I can *let* my heart speak. 
+
+This makes me feel safe.
 
 I *also* LOVE note-taking with Obsidian. 
 
 It gives me an exciting space where I can *let* my mind wander.
 
+That makes me feel like a million bucks.
+
+## A fucking CONUNDRUM
 But… Here’s the CONUNDRUM I’ve struggled with. 
 
 When I journal with pen and paper, I often want to reference something I had written down. 
