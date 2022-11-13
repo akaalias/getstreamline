@@ -1,22 +1,24 @@
 ![Streamline Demo](https://github.com/akaalias/getstreamline/raw/main/demo.png)
 
-Hello and welcome! 
+👋🏻 **HELLO** and welcome! 
 
-Alexis here. Great to have you. 
+Alexis here, great to have you. 
 
-If you journal daily *and* take copious notes with Obsidian, maybe the following sounds familiar :)
+I take copious notes with Obsidian and journal daily.
 
-## What I love
+If you do, too, maybe the following sounds familiar :)
+
+…
 
 I LOVE journaling with pen and paper in the morning.
 
-Journaling gives me a safe space where I let my heart speak. 
+Journaling gives me a safe space where **I let my heart speak**. 
 
 This makes me feel safe.
 
 I also LOVE note-taking with Obsidian. 
 
-It gives me an exciting space where let my mind wander.
+It gives me an exciting space where **I let my mind wander**.
 
 That makes me feel like a million bucks.
 
@@ -28,17 +30,17 @@ Here’s the RUB.
 
 ### Problem #1: Peace without a future
 
-When I journal with pen and paper, I can’t link to Obsidian.
+When I journal with pen and paper, **I can’t link to Obsidian**.
 
-There is **no easy way to link to a note** in Obsidian without losing the peace and quiet that I cherish. 
+**There is no easy way to link to a note** in Obsidian without losing the peace and quiet that I cherish. 
 
 So, none of my heart-felt writings will be ever leverage the 6,018 notes in Obsidian because they’re stuck on paper???
 
 Fuck.
 
-### Problem #2: As exciting as pink noise
+### Problem #2: Writing as exciting as pink noise
 
-And when I write in Obsidian, it’s extremely hard to focus.
+And when I try to journal in Obsidian, **it’s extremely hard to focus**.
 
 Either…
 
@@ -50,7 +52,7 @@ So, my notes in Obsidian will perpetually lack real depth and a heart-felt spont
 
 FUCK!
 
-## The freedom to be myself, connected
+## The freedom to be myself
 
 So I built Streamline.
 
@@ -62,7 +64,7 @@ It’s a *writer* that helps me:
 
 …AND **Let go** of my inner editor by removing most normal editor features.
 
-### A new work-flow
+### A completely new journaling flow
 Instead of journaling by hand, I now do a quick, relaxed Streamline session.
 
 Usually right after I log in to my laptop. 
@@ -75,7 +77,7 @@ It’s really simple.
 
 It works. 
 
-And it *feels* right.
+And it feels right.
 
 —
 
