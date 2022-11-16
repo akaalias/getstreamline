@@ -8,7 +8,7 @@ I take copious notes with Obsidian and journal daily.
 
 If you do, too, maybe the following sounds familiar :)
 
-…
+## A FUCKING CONUNDRUM
 
 I LOVE journaling with pen and paper in the morning.
 
@@ -21,8 +21,6 @@ I also LOVE note-taking with Obsidian.
 It gives me an exciting space where **I let my mind wander**.
 
 That makes me feel like a million bucks.
-
-## A FUCKING CONUNDRUM
 
 But… 
 
@@ -52,7 +50,7 @@ So, my notes in Obsidian will perpetually lack real depth and a heart-felt spont
 
 FUCK!
 
-## The freedom to be myself
+# Streamline is a stream-of-consciousness writer for Obsidian users
 
 So I built Streamline.
 
