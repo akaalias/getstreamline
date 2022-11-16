@@ -1,3 +1,5 @@
+# Streamline is a stream-of-consciousness writer for Obsidian users
+
 ![Streamline Demo](https://github.com/akaalias/getstreamline/raw/main/demo.png)
 
 👋🏻 **HELLO** and welcome! 
