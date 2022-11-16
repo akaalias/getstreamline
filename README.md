@@ -87,7 +87,9 @@ Know that you’re NOT crazy and you’re NOT alone.
 
 Instead: Give your heart a chance to speak AND your mind a place to wander!
 
-Also, Streamline is free so click on the link below! 
+Also, Streamline is free and open-source. 
+
+Click on the link below to download it now!
 
 [🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
 
@@ -147,4 +149,7 @@ It intentionally only *moves forward*.
 - There is **no markdown syntax highlighting** to distract 
 - There is **no copy-and-paste** or any other shortcuts
 
-Streamline is free. [🎁 Download for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
+Streamline is free and [open-source](https://github.com/akaalias/Streamline)!
+
+[🎁 Download Streamline for macOS 12+](https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip)
+
