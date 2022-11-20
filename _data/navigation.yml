@@ -1,0 +1,4 @@
+#- name: Get Streamline for macOS 12+
+#  link: "https://github.com/akaalias/getstreamline/releases/latest/download/Streamline.zip"
+#  new_window: true
+#  highlight: true

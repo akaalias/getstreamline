@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://getstreamline.app/sitemap.xml
