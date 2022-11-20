@@ -50,6 +50,10 @@
 	}
 }
 
+.release-link a {
+	font-size: 10pt;
+	color: #ccc !important;
+}
 
 @media #{$desktop} {
 	.flex {

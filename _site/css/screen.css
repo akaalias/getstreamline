@@ -39,6 +39,8 @@ p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 3
 
 .hero h1 { color: #0a2867; font-size: 58pt; }
 
+.release-link a { font-size: 10pt; color: #ccc !important; }
+
 @media (min-width: 768px) { .flex { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; align-items: center; flex-direction: row; } .flex .text, .flex .image { -webkit-flex: 1; flex: 1; padding: 0 20px; } .content section:nth-child(even) .flex { flex-direction: row-reverse; } }
 
 .container, .text-container { margin: 0 auto; position: relative; padding: 0 20px; }
