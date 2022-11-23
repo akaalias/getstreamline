@@ -14,16 +14,28 @@
 	cursor: pointer;
 }
 
-.button.alt a {
-	background: rgba(255,255,255,0.15);
-	border-radius: 3px;
-	border: 1px solid rgba(255, 255, 255, 0.3);
-	padding: 16px 50px;
+.button a {
+	background: rgba(255,255,255,0);
+	border-radius: 10px !important;
+	border: 1px solid $button-border;
+	font-size: larger;
+	padding: 25px 50px;
+	box-shadow: 0px 0px 100px $signal-purple;
+
+	img {
+		width: 54px;
+		height: 54px;
+		position: relative;
+		left: -18px;
+		top: 18px;
+	}
 }
 
-.button.alt a:hover {
+.button a:hover {
 	background: #fff;
 	color: $brand-color;
+	border: 1px solid $button-border;
+	box-shadow: 0px 0px 20px $signal-purple;
 }
 
 textarea, input, button, select { font-family: inherit; font-size: inherit; }

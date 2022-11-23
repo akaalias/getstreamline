@@ -1,5 +1,5 @@
 .bottom-cta {
-	background: linear-gradient(to bottom, $brand-color 0%, $middle-gradient-color 100%);
+	background: $brand-color;
 	color: #fff;
 	text-align: center;
 	margin: 0;
@@ -56,9 +56,12 @@
 	}
 }
 
-.release-link a {
-	font-size: 10pt;
-	color: #ccc !important;
+.release-link {
+	padding-top: 20px !important;
+	a {
+		font-size: 10pt;
+		color: #fff !important;
+	}
 }
 
 @media #{$desktop} {

@@ -23,7 +23,7 @@ h3 { margin: 20px 0 10px 0; }
 
 p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 300; line-height: 1.4em; }
 
-.bottom-cta { background: linear-gradient(to bottom, #0a2867 0%, #0d2d6d 100%); color: #fff; text-align: center; margin: 0; padding: 100px 0; }
+.bottom-cta { background: #0a2867; color: #fff; text-align: center; margin: 0; padding: 100px 0; }
 
 .bottom-cta h2 { margin-bottom: 50px; }
 
@@ -41,7 +41,9 @@ p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 3
 
 .hero #logo { position: absolute; top: 30px; left: 30px !important; width: 120px; }
 
-.release-link a { font-size: 10pt; color: #ccc !important; }
+.release-link { padding-top: 20px !important; }
+
+.release-link a { font-size: 10pt; color: #fff !important; }
 
 @media (min-width: 768px) { .flex { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; align-items: center; flex-direction: row; } .flex .text, .flex .image { -webkit-flex: 1; flex: 1; padding: 0 20px; } .content section:nth-child(even) .flex { flex-direction: row-reverse; } }
 
@@ -209,9 +211,11 @@ blockquote:before { color: #ccc; content: open-quote; font-size: 4em; line-heigh
 
 .button a:hover, input[type=submit]:hover { border: 1px solid #fff; background: #4182e4; cursor: pointer; }
 
-.button.alt a { background: rgba(255, 255, 255, 0.15); border-radius: 3px; border: 1px solid rgba(255, 255, 255, 0.3); padding: 16px 50px; }
+.button a { background: rgba(255, 255, 255, 0); border-radius: 10px !important; border: 1px solid #da72ff; font-size: larger; padding: 25px 50px; box-shadow: 0px 0px 100px #c937ff; }
 
-.button.alt a:hover { background: #fff; color: #0a2867; }
+.button a img { width: 54px; height: 54px; position: relative; left: -18px; top: 18px; }
+
+.button a:hover { background: #fff; color: #0a2867; border: 1px solid #da72ff; box-shadow: 0px 0px 20px #c937ff; }
 
 textarea, input, button, select { font-family: inherit; font-size: inherit; }
 
