@@ -15,7 +15,7 @@
 }
 
 .button a {
-	background: rgba(255,255,255,0);
+	background: $button-background;
 	border-radius: 10px !important;
 	border: 1px solid $button-border;
 	font-size: larger;

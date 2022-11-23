@@ -57,9 +57,11 @@
 }
 
 .release-link {
-	padding-top: 20px !important;
+	padding-top: 30px !important;
+	font-size: 10pt;
+	color: #fff !important;
 	a {
-		font-size: 10pt;
+		text-decoration: underline;
 		color: #fff !important;
 	}
 }
