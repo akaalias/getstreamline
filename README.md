@@ -93,6 +93,8 @@ Click on the link below to download it now!
 
 ## What you’ll get
 
+![Annotated Note](https://github.com/akaalias/getstreamline/blob/main/images/Annotated-Note.png)
+
 ### Learn to listen to your heart
 If you’ve never done stream-of-consciousness writing before, it can seem daunting and confusing. 
 
