@@ -287,19 +287,17 @@ nav a.active { color: #fff; }
 
 .footer-links li a.rss-icon:hover svg { fill: #f26522; }
 
-footer { padding: 50px 0 50px 0; font-size: 1.1em; position: relative; background: #2b2b40; color: #fff; }
+footer { padding: 50px 0 50px 0; font-size: 1.1em; position: relative; background: #0a2867; }
 
-footer .copyright { font-size: .8em; margin: 0 auto; }
+footer .copyright { font-size: .8em; margin: 0 auto; color: #76a2ff; }
 
 @media (min-width: 450px) { footer .copyright { text-align: center; } }
 
-footer, footer a { color: #999; }
+footer a { color: #76a2ff; text-decoration: underline; }
 
-footer h2 { font-size: 1.4em; margin: 30px 0; color: #ccc; }
+footer h2 { font-size: 1.4em; margin: 30px 0; color: #fff; }
 
 footer .footer-columns { -webkit-flex-flow: wrap; -moz-flex-flow: wrap; -ms-flex-flow: wrap; flex-flow: wrap; margin: -10px -10px 10px -10px; }
-
-footer a { text-decoration: none; }
 
 footer a:hover { color: #fff; }
 

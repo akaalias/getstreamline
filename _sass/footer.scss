@@ -70,28 +70,27 @@ footer {
 	padding: 50px 0 50px 0;
 	font-size: 1.1em;
 	position: relative;
-	background: #2b2b40;
-	color: #fff;
+	background: $brand-color;
 
 	.copyright {
 		font-size: .8em;
 		margin: 0 auto;
-		
+		color: $footer-link-color;
 		@media #{$tablet} {
 			text-align: center;
 		}
 
 	}
 	
-	&,
 	a {
-		color: #999;
+		color: $footer-link-color;
+		text-decoration: underline;
 	}
 
 	h2 {
 		font-size: 1.4em;
 		margin: 30px 0;
-		color: #ccc;
+		color: #fff;
 	}
 
 	.footer-columns {
@@ -101,8 +100,6 @@ footer {
 	}
 
 	a {
-		text-decoration: none;
-
 		&:hover {
 			color: #fff;
 		}
