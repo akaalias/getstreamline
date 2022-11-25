@@ -1,9 +1,14 @@
 .bottom-cta {
 	background: $brand-color;
-	color: #fff;
+	color: #fff !important;
 	text-align: center;
 	margin: 0;
 	padding: 100px 0;
+
+	p {
+		font-size: 20px;
+		color: #fff !important;
+	}
 
 	h2 {
 		margin-bottom: 10px;
@@ -106,5 +111,18 @@
 
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
+	}
+}
+
+.questions {
+	width: 450px;
+	color: $brand-color;
+	h2, h3 {
+		color: $brand-color;
+		text-align: center;
+	}
+
+	p {
+		color: $brand-color !important;
 	}
 }

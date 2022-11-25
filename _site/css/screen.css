@@ -23,7 +23,9 @@ h3 { margin: 20px 0 10px 0; }
 
 p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 300; line-height: 1.4em; }
 
-.bottom-cta { background: #0a2867; color: #fff; text-align: center; margin: 0; padding: 100px 0; }
+.bottom-cta { background: #0a2867; color: #fff !important; text-align: center; margin: 0; padding: 100px 0; }
+
+.bottom-cta p { font-size: 20px; color: #fff !important; }
 
 .bottom-cta h2 { margin-bottom: 10px; }
 
@@ -56,6 +58,12 @@ p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 3
 .release-link a { text-decoration: underline; color: #fff !important; }
 
 @media (min-width: 768px) { .flex { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; align-items: center; flex-direction: row; } .flex .text, .flex .image { -webkit-flex: 1; flex: 1; padding: 0 20px; } .content section:nth-child(even) .flex { flex-direction: row-reverse; } }
+
+.questions { width: 450px; color: #0a2867; }
+
+.questions h2, .questions h3 { color: #0a2867; text-align: center; }
+
+.questions p { color: #0a2867 !important; }
 
 .container, .text-container { margin: 0 auto; position: relative; padding: 0 20px; }
 
@@ -138,6 +146,8 @@ blockquote:before { color: #ccc; content: open-quote; font-size: 4em; line-heigh
 .faq dt { font-weight: bold; margin: 0 0 5px 0; }
 
 .faq dd { padding: 0; margin: 0; }
+
+.faq h2 { text-align: center !important; }
 
 .staff { padding: 0; list-style: none; -webkit-flex-flow: wrap; -moz-flex-flow: wrap; -ms-flex-flow: wrap; flex-flow: wrap; text-align: center; }
 
