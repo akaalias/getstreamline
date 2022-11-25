@@ -33,7 +33,7 @@ p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 3
 
 .bottom-cta .underline { border-bottom: 1px solid #da72ff; }
 
-.testimonial { background: #f5f5f5; margin: 0; padding: 100px 0; }
+.testimonial { background: #f5f5f5; margin: 0; padding: 50px 0; }
 
 .testimonial .testimonial-block { max-width: 750px; width: 98%; margin: 0 auto; }
 
