@@ -1,6 +1,6 @@
 ![Streamline Demo](https://github.com/akaalias/getstreamline/raw/main/demo.png)
 
-👋🏻 **HELLO** and welcome! 
+👋🏻 **HELLO** and welcome!!
 
 Alexis here, great to have you. 
 
