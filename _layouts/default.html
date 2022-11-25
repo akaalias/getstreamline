@@ -5,42 +5,32 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		{% seo %}
+
+		<meta name="generator" content="Jekyll v3.9.2" />
+		<meta property="og:title" content="Streamline Writer" />
+		<meta name="author" content="Alexis Rondeau" />
+		<meta property="og:locale" content="en_us" />
+		<meta name="description" content="A stream-of-consciousness writer for Obsidian" />
+		<meta property="og:description" content="A stream-of-consciousness writer for Obsidian" />
+		<link rel="canonical" href="https://getstreamline.app/" />
+		<meta property="og:url" content="https://getstreamline.app" />
+		<meta property="og:site_name" content="Streamline Writer" />
+		<meta property="og:image" content="https://getstreamline.app/assets/images/social.png" />
+		<meta property="og:type" content="website" />
+		<meta name="twitter:card" content="https://getstreamline.app/assets/images/social.png" />
+		<meta property="twitter:image" content="https://getstreamline.app/assets/images/social.png" />
+		<meta property="twitter:title" content="Streamline" />
+
 		{% feed_meta %}
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
 	</head>
 	<body>
-	<!--
-		<header>
-			<div class="container">
-				<div class="company-name"><a href="{{ site.baseurl }}/">
-					<img src="{{ site.baseurl }}/images/logo.svg" alt="Streamline Logo" width="95" height="33" /></a>
-				</div>
-				{% include navigation.html %}
-			</div>
-		</header>
-		-->
+
 		{{ content }}
 		<footer>
 			<div class="container">
-				<!--
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
-				<div class="footer-columns">
-					{% for column in site.data.footer %}
-					<ul class="footer-links">
-						{% for link in column.links %}
-							<li><a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
-								{% if link.social_icon %}
-									{% include social-icon.html icon=link.social_icon %}
-								{% endif %}
-								{{ link.name }}</a></li>
-						{% endfor %}
-					</ul>
-					{% endfor %}
-				</div>
-				-->
 				<p class="copyright">&copy; {{ site.time | date: '%Y' }} Made with love by <a href="https://alexisrondeau.me" target="_blank">{{site.author.name}}</a> – Streamline is <a href="https://github.com/akaalias/Streamline" target="_blank">Free Software!</a>
 			</div>
 		</footer>
