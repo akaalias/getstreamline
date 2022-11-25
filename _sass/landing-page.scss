@@ -61,6 +61,22 @@
 	}
 }
 
+.video-demo {
+	text-align: center;
+	background: $brand-color;
+	padding-top: 100px;
+
+	h1, h2, h3 {
+		color: white;
+	}
+
+	.divider {
+		background-color: $brand-color;
+		width: 100%;
+		min-height: 100px;
+	}
+}
+
 .release-link {
 	padding-top: 30px !important;
 	font-size: 10pt;

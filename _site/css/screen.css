@@ -43,6 +43,12 @@ p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 3
 
 .hero #logo { position: absolute; top: 30px; left: 30px !important; width: 120px; }
 
+.video-demo { text-align: center; background: #0a2867; padding-top: 100px; }
+
+.video-demo h1, .video-demo h2, .video-demo h3 { color: white; }
+
+.video-demo .divider { background-color: #0a2867; width: 100%; min-height: 100px; }
+
 .release-link { padding-top: 30px !important; font-size: 10pt; color: #fff !important; }
 
 .release-link a { text-decoration: underline; color: #fff !important; }
