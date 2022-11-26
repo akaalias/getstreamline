@@ -35,6 +35,8 @@ p, address { font-size: 1.38em; color: #666; margin-bottom: 20px; font-weight: 3
 
 .testimonial { background: #f5f5f5; margin: 0; padding: 50px 0; }
 
+.testimonial a { color: #4182e4; text-decoration: underline; }
+
 .testimonial .testimonial-block { max-width: 750px; width: 98%; margin: 0 auto; }
 
 @media (min-width: 450px) { .testimonial .testimonial-block { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; } .testimonial .testimonial-block blockquote { -webkit-flex: 1; flex: 1; } }
