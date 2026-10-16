@@ -7,7 +7,7 @@
 
 ## Streamline Demo and Download
 Watch the demo and get Streamline for macOS here:
-[![Demo](https://getstreamline.app/images/social.png)](https://getstreamline.app?wvideo=f1xos22k50)
+[![Demo](https://alexisrondeau.me/getstreamline/images/social.png)](https://alexisrondeau.me/getstreamline/?wvideo=f1xos22k50)
 
 
 ## Background
